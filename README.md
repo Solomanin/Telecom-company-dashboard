@@ -1,4 +1,4 @@
-# Telecom-company-dashboard
+# A survey of customers of a telecommunications company
 # Objectives of the project: 
 Study of data with the results of a survey reflecting the current level of consumer loyalty (NPS) of customers of a telecommunications company.
 # Project description: 
